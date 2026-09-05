@@ -148,3 +148,40 @@ Action Assignment
 Follow-up & Status Tracking
         ↓
 Operational Dashboard
+
+Key Features
+Registration Management
+
+Tracks participant registration status and identifies registration issues.
+
+Schedule & Capacity Monitoring
+
+Monitors course capacity and identifies courses approaching or exceeding capacity.
+
+Attendance Monitoring
+
+Identifies attendance issues and courses requiring follow-up.
+
+Completion Monitoring
+
+Tracks participant completion status and highlights programs requiring attention.
+
+Exception Management
+
+Creates a structured workflow for operational issues and participant follow-ups.
+
+Action Tracking
+
+Tracks priority, ownership, due dates, and status of pending operational actions.
+
+KPI Dashboard
+
+Provides a consolidated view of registration, attendance, completion, feedback, and operational alerts.
+
+🛠️ Tools
+Microsoft Excel
+Power Query
+Pivot Tables
+Data Validation
+Conditional Formatting
+Excel Formulas
